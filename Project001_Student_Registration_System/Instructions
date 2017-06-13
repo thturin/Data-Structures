@@ -1,0 +1,5 @@
+
+Design a student registration system where an Administrator can sign in with username and password. They will be able to
+add and delete students to and from courses. Administrator is also able to create new courses and edit current courses. 
+All information is serialized and de-serialized to .txt files for dynamic manipulation of registration system. 
+
